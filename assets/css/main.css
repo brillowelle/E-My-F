@@ -11684,7 +11684,7 @@ p.sticky-label {
   }
 }
 .footer-widgets-wrapper .single-footer-widget {
-  margin-top: 30px;
+  /* margin-top: 30px; */
 }
 .footer-widgets-wrapper .single-footer-widget .widget-head {
   margin-bottom: 30px;
@@ -11746,8 +11746,9 @@ p.sticky-label {
   text-align: center;
 }
 .footer-widgets-wrapper .single-footer-widget .footer-content .social-icon a:hover {
-  background-color: var(--theme);
+  /* background-color: var(--theme); */
   color: var(--white);
+  transform: scale(1.3)
 }
 .footer-widgets-wrapper .single-footer-widget .list-items li {
   text-transform: capitalize;
