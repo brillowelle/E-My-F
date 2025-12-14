@@ -24811,6 +24811,7 @@ Version: 1.1.0
 }
 .gallery-thumb-1 img {
   width: 100%;
+  border-radius: 20px;
 }
 .gallery-thumb-1:hover .gallery-btn {
   opacity: 1;
