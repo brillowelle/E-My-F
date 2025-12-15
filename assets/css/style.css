@@ -26555,6 +26555,9 @@ Version: 1.1.0
   font-size: 124px;
   font-family: var(--banner-5-title);
 }
+  .hero-2.style-2 .hero-title.ara{
+    font-size: 150px;
+  }
 .hero-2.style-2 .hero-2-img-slider {
   margin-top: 58px;
   z-index: 1;
@@ -26591,6 +26594,9 @@ Version: 1.1.0
 @media (max-width: 1500px) {
   .hero-2.style-2 .hero-title {
     font-size: 106px;
+  }
+    .hero-2.style-2 .hero-title.ara{
+    font-size: 150px;
   }
 }
 /* Medium Large devices */
@@ -26655,6 +26661,9 @@ Version: 1.1.0
   .hero-2.style-2 .hero-2-img-slider {
     margin-top: 85px;
   }
+    .hero-2.style-2 .hero-title.ara{
+    font-size: 65px;
+  }
 }
 /* Extra small devices */
 @media (max-width: 575px) {
@@ -26671,6 +26680,7 @@ Version: 1.1.0
   .hero-2.style-2 .hero-title {
     font-size: 40px;
   }
+
 }
 @media (max-width: 425px) {
   .hero-2.style-2 .hero-title {
