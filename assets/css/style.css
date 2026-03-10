@@ -34463,4 +34463,11 @@ button.wh-ap-btn:hover {
 	}
 }
 
+.justify-center {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
 /*# sourceMappingURL=style.css.map */
